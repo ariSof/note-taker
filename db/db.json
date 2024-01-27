@@ -1,6 +1,27 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Note Title",
+        "text": "Test text of my note",
+        "id": "e939af99-833f-4sce-9365-e1a79f38f950"
+    },
+    {
+        "title": "Super Note",
+        "text": "The awesomest note ever!!",
+        "id": "e939af77-803f-4fce-9665-e1a79f915c50"
+    },
+    {
+        "title": "Have fun",
+        "text": "Just a reminder to have fun",
+        "id": "0f7027b4-6079-4678-a7ba-214def24a3b0"
+    },
+    {
+        "title": "Deploy app",
+        "text": "Need to deploy to heroku",
+        "id": "a880c264-bcfe-46fd-88a9-307608d57d1c"
+    },
+    {
+        "title": "List",
+        "text": "Make a todo list",
+        "id": "4e2e812f-179d-414c-88d0-171aa50b13fb"
     }
 ]
